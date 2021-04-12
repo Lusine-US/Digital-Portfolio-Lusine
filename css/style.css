@@ -849,15 +849,6 @@ select {
     display: grid;
     grid-gap: 1rem;
 
-
-
-
-
-
-
-
-
-
   grid-template-columns: repeat(3, [col-start] 1fr);
     width: 49%;
     padding-top: 4px;
@@ -953,10 +944,6 @@ select {
 .grid-content-blog {
     display: grid;
     grid-gap: 1rem;
-
-
-
-
   grid-template-columns: repeat(3, [col-start] 1fr);
     width: 41%;
     margin-left: 36%;
@@ -1084,7 +1071,7 @@ select {
     margin-top: -6%;
     margin-bottom: 14%;
 }
-.card-pass1  {
+.card-pass1{
     margin-left: 48%;
     margin-right: 2%;
     color: rgba(83, 65, 65, 0.49);
